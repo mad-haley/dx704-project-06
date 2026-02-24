@@ -1,0 +1,7 @@
+Acknowledgments
+
+I used the DX704 course-provided code examples as a reference when developing the code for this assignment.
+
+I referenced the following notebook from the course repo:
+https://github.com/bu-cds-omds/dx704-examples/blob/main/week01/chart_risk_return_performance_of_efficient_portfolios.ipynb
+I also used reddit and youtube.
